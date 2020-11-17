@@ -1,0 +1,3 @@
+/home/kirill/Рабочий стол/AK2_Lab3/CMakeFiles/rebuild_cache.dir
+/home/kirill/Рабочий стол/AK2_Lab3/CMakeFiles/edit_cache.dir
+/home/kirill/Рабочий стол/AK2_Lab3/CMakeFiles/AK2_Lab3.dir

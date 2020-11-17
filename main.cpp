@@ -84,20 +84,20 @@ main(int argc, char **argv)
             printf("option %c\n", c);
             break;
 
-       case 'a':
-            printf("option a\n");
+       case 'h':
+            printf("option h\n");
             break;
 
-       case 'b':
-            printf("option b\n");
+       case 'v':
+            printf("option v\n");
             break;
 
        case 'c':
             printf("option c with value '%s'\n", optarg);
             break;
 
-       case 'd':
-            printf("option d with value '%s'\n", optarg);
+       case 'l':
+            printf("option l with value '%s'\n", optarg);
             break;
 
        case '?':
